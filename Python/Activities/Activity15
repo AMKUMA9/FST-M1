@@ -1,0 +1,4 @@
+try:
+    print("NO error")
+except NameError:
+    print("Name error")
